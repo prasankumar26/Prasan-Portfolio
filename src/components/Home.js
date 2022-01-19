@@ -387,6 +387,12 @@ const Home = () => {
           </div>
         </section>
         {/*end of  timeline */}
+
+
+
+
+
+
         {/* blog */}
         <section className="section blog">
           {/* section title */}
@@ -409,7 +415,7 @@ const Home = () => {
                     Natus, provident.
                   </p>
                   <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
+                    <img src="./images/hero-img-small.jpeg" alt="authorimage"/>
                     <p>7 min read</p>
                   </div>
                 </div>
@@ -420,78 +426,7 @@ const Home = () => {
               </div>
             </div>
             {/* end of single article */}
-            {/* single article */}
-            <div className="card">
-              {/* front of the card */}
-              <div className="card-side card-front">
-                <img src="./images/project-2.jpeg" alt="one"/>
-                <div className="card-info">
-                  <h4>article title</h4>
-                  <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et
-                    nisi ut a est eum tempora dolorum temporibus voluptatibus!
-                    Natus, provident.
-                  </p>
-                  <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
-                    <p>7 min read</p>
-                  </div>
-                </div>
-              </div>
-              {/* card back  */}
-              <div className="card-side card-back">
-                <button className="btn">read more</button>
-              </div>
-            </div>
-            {/* end of single article */}
-            {/* single article */}
-            <div className="card">
-              {/* front of the card */}
-              <div className="card-side card-front">
-                <img src="./images/project-3.jpeg" alt="one"/>
-                <div className="card-info">
-                  <h4>article title</h4>
-                  <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et
-                    nisi ut a est eum tempora dolorum temporibus voluptatibus!
-                    Natus, provident.
-                  </p>
-                  <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
-                    <p>7 min read</p>
-                  </div>
-                </div>
-              </div>
-              {/* card back  */}
-              <div className="card-side card-back">
-                <button className="btn">read more</button>
-              </div>
-            </div>
-            {/* end of single article */}
-            {/* single article */}
-            <div className="card">
-              {/* front of the card */}
-              <div className="card-side card-front">
-                <img src="./images/project-4.jpeg" alt="two"/>
-                <div className="card-info">
-                  <h4>article title</h4>
-                  <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et
-                    nisi ut a est eum tempora dolorum temporibus voluptatibus!
-                    Natus, provident.
-                  </p>
-                  <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
-                    <p>7 min read</p>
-                  </div>
-                </div>
-              </div>
-              {/* card back  */}
-              <div className="card-side card-back">
-                <button className="btn">read more</button>
-              </div>
-            </div>
-            {/* end of single article */}
+           
           </div>
         </section>
         {/*end of  blog */}
