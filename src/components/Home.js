@@ -41,7 +41,7 @@ const Home = () => {
               </ul>
             </article>
             <article className="hero-img">
-              <img src="./images/prasan-three.jpg" className="hero-photo" alt="john doe" />
+              <img src="./images/prasan-three.jpg" className="hero-photo" alt="john doe"/>
             </article>
           </div>
         </header>
@@ -51,7 +51,7 @@ const Home = () => {
           <div className="section-center about-center">
             {/* about img */}
             <article className="about-img">
-              <img src="./images/prasan-two.jpg" className="hero-photo" alt="about img" />
+              <img src="./images/prasan-two.jpg" className="hero-photo" alt="about img"/>
             </article>
             {/* about info */}
             <article className="about-info">
@@ -147,7 +147,7 @@ const Home = () => {
             {/* single project */}
             <a href="projects.html" className="project-1">
               <article className="project">
-                <img src="./images/project-1.jpeg" alt="single project" className="project-img" />
+                <img src="./images/project-1.jpeg" alt="single project" className="project-img"/>
                 <div className="project-info">
                   <h4>project title</h4>
                   <p>client name</p>
@@ -158,7 +158,7 @@ const Home = () => {
             {/* single project */}
             <a href="projects.html" className="project-2">
               <article className="project">
-                <img src="./images/project-2.jpeg" alt="single project" className="project-img" />
+                <img src="./images/project-2.jpeg" alt="single project" className="project-img"/>
                 <div className="project-info">
                   <h4>project title</h4>
                   <p>client name</p>
@@ -168,7 +168,7 @@ const Home = () => {
             {/* end of single project */}{/* single project */}
             <a href="projects.html" className="project-3">
               <article className="project">
-                <img src="./images/project-3.jpeg" alt="single project" className="project-img" />
+                <img src="./images/project-3.jpeg" alt="single project" className="project-img"/>
                 <div className="project-info">
                   <h4>project title</h4>
                   <p>client name</p>
@@ -178,7 +178,7 @@ const Home = () => {
             {/* end of single project */}{/* single project */}
             <a href="projects.html" className="project-4">
               <article className="project">
-                <img src="./images/project-4.jpeg" alt="single project" className="project-img" />
+                <img src="./images/project-4.jpeg" alt="single project" className="project-img"/>
                 <div className="project-info">
                   <h4>project title</h4>
                   <p>client name</p>
@@ -400,7 +400,7 @@ const Home = () => {
             <div className="card">
               {/* front of the card */}
               <div className="card-side card-front">
-                <img src="./images/project-1.jpeg" alt="" />
+                <img src="./images/project-1.jpeg" alt="one"/>
                 <div className="card-info">
                   <h4>article title</h4>
                   <p>
@@ -409,7 +409,7 @@ const Home = () => {
                     Natus, provident.
                   </p>
                   <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image" />
+                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
                     <p>7 min read</p>
                   </div>
                 </div>
@@ -424,7 +424,7 @@ const Home = () => {
             <div className="card">
               {/* front of the card */}
               <div className="card-side card-front">
-                <img src="./images/project-2.jpeg" alt="" />
+                <img src="./images/project-2.jpeg" alt="one"/>
                 <div className="card-info">
                   <h4>article title</h4>
                   <p>
@@ -433,7 +433,7 @@ const Home = () => {
                     Natus, provident.
                   </p>
                   <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image" />
+                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
                     <p>7 min read</p>
                   </div>
                 </div>
@@ -448,7 +448,7 @@ const Home = () => {
             <div className="card">
               {/* front of the card */}
               <div className="card-side card-front">
-                <img src="./images/project-3.jpeg" alt="" />
+                <img src="./images/project-3.jpeg" alt="one"/>
                 <div className="card-info">
                   <h4>article title</h4>
                   <p>
@@ -457,7 +457,7 @@ const Home = () => {
                     Natus, provident.
                   </p>
                   <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image" />
+                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
                     <p>7 min read</p>
                   </div>
                 </div>
@@ -472,7 +472,7 @@ const Home = () => {
             <div className="card">
               {/* front of the card */}
               <div className="card-side card-front">
-                <img src="./images/project-4.jpeg" alt="" />
+                <img src="./images/project-4.jpeg" alt="two"/>
                 <div className="card-info">
                   <h4>article title</h4>
                   <p>
@@ -481,7 +481,7 @@ const Home = () => {
                     Natus, provident.
                   </p>
                   <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="author image" />
+                    <img src="./images/hero-img-small.jpeg" alt="author image"/>
                     <p>7 min read</p>
                   </div>
                 </div>
