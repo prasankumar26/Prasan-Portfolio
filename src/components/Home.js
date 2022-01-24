@@ -61,19 +61,13 @@ const Home = () => {
                 <div className="underline" />
               </div>
               {/*end of section title */}
+              <h2>Front End Developer</h2>
+             <p>
+            Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. 
+            <a href="https://www.linkedin.com/in/prasan-kumar-141a3916b/">Linkedin</a>
+          </p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quae,
-                eum maiores est enim earum fugiat aspernatur. Fuga qui iste amet
-                reiciendis possimus rerum omnis recusandae molestias error
-                consequuntur, doloribus inventore reprehenderit officiis. Dolore
-                aut, repellendus eius fugiat numquam cumque.
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quae,
-                eum maiores est enim earum fugiat aspernatur. Fuga qui iste amet
-                reiciendis possimus rerum omnis recusandae molestias error
-                consequuntur, doloribus inventore reprehenderit officiis. Dolore
-                aut, repellendus eius fugiat numquam cumque.
+               Computer programming is the process of performing a particular computation, usually by designing/building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms.
               </p>
               <Link to="about" className="btn">about me</Link>
             </article>
@@ -95,9 +89,7 @@ const Home = () => {
               <h4>web development</h4>
               <div className="underline" />
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-                corrupti animi saepe quasi excepturi cupiditate voluptate dolor sed
-                obcaecati vero.
+                Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.
               </p>
             </article>
             {/* end of single service */}
@@ -107,9 +99,7 @@ const Home = () => {
               <h4>web design</h4>
               <div className="underline" />
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-                corrupti animi saepe quasi excepturi cupiditate voluptate dolor sed
-                obcaecati vero.
+                Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design (UI design); authoring, including standardised code and proprietary software.
               </p>
             </article>
             {/* end of single service */}
@@ -119,9 +109,7 @@ const Home = () => {
               <h4>app design</h4>
               <div className="underline" />
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-                corrupti animi saepe quasi excepturi cupiditate voluptate dolor sed
-                obcaecati vero.
+               What Is App Design? App design combines the user interface (UI) and user experience (UX). While UI lends itself to the overall style of the app (including the colors, fonts, and general look and feel), UX focuses on the actual functionality and usability.
               </p>
             </article>
             {/* end of single service */}
@@ -135,11 +123,7 @@ const Home = () => {
             <h2>latest works</h2>
             <div className="underline" />
             <p className="projects-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-              repudiandae cupiditate ea facilis incidunt, non sapiente! Debitis
-              magnam, earum assumenda obcaecati cum quaerat facere ratione molestiae
-              dignissimos aliquid blanditiis architecto voluptates delectus
-              voluptate animi nulla! Autem explicabo perspiciatis officia ea.
+             small and medium-sized businesses up to enterprise grade corporations. No project is too big or small for us to handle...
             </p>
           </div>
           {/*end of section title */}
@@ -203,11 +187,7 @@ const Home = () => {
             </div>
             {/*end of section title */}
             <p className="video-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ratione
-              perferendis exercitationem sit. Beatae eius commodi officiis rem
-              soluta ratione dignissimos quisquam tempore laudantium, porro vitae
-              cupiditate dicta magni quas corrupti aperiam, rerum minus odio totam
-              repellendus delectus nostrum veniam!
+             Keep in touch Fro any Web Development Projects, I am Ready to compleate your Projects on Time... 
             </p>
             <Link to="contact" className="btn">contact me</Link>
           </div>
@@ -230,7 +210,7 @@ const Home = () => {
                 <div className="skill-container">
                   <div className="skill-value" />
                   <p className="skill-text">
-                    50%
+                    80%
                   </p>
                 </div>
               </div>
@@ -273,7 +253,7 @@ const Home = () => {
               {/*end of  single skill */}
               {/* single skill */}
               <div className="skill">
-                <p>PHP</p>
+                <p>Bootstrap</p>
                 <div className="skill-container">
                   <div className="skill-value value-70" />
                   <p className="skill-text skill-text-70">
@@ -284,7 +264,7 @@ const Home = () => {
               {/*end of  single skill */}
               {/* single skill */}
               <div className="skill">
-                <p>Python</p>
+                <p>MERN</p>
                 <div className="skill-container">
                   <div className="skill-value value-80" />
                   <p className="skill-text skill-text-80">
@@ -307,51 +287,13 @@ const Home = () => {
           {/*end of section title */}
           <div className="section-center timeline-center">
             {/* single timeline item */}
-            <article className="timeline-item">
-              <h4>2020</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-                consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
-                autem, ea excepturi.
-              </p>
-              <span className="number">
-                1
-              </span>
-            </article>
-            {/* end of  single timeline item */}
+           
+         
             {/* single timeline item */}
             <article className="timeline-item">
-              <h4>2019</h4>
+              <h4>2022</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-                consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
-                autem, ea excepturi.
-              </p>
-              <span className="number">
-                2
-              </span>
-            </article>
-            {/* end of  single timeline item */}
-            {/* single timeline item */}
-            <article className="timeline-item">
-              <h4>2018</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-                consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
-                autem, ea excepturi.
-              </p>
-              <span className="number">
-                3
-              </span>
-            </article>
-            {/* end of  single timeline item */}
-            {/* single timeline item */}
-            <article className="timeline-item">
-              <h4>2017</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-                consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
-                autem, ea excepturi.
+               React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
               </p>
               <span className="number">
                 4
@@ -360,27 +302,34 @@ const Home = () => {
             {/* end of  single timeline item */}
             {/* single timeline item */}
             <article className="timeline-item">
-              <h4>2016</h4>
+              <h4>2021</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-                consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
-                autem, ea excepturi.
+                JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. Over 97% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries.
               </p>
               <span className="number">
-                5
+                3
               </span>
             </article>
             {/* end of  single timeline item */}
             {/* single timeline item */}
             <article className="timeline-item">
-              <h4>2015</h4>
+              <h4>2020</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-                consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
-                autem, ea excepturi.
+                Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
               </p>
               <span className="number">
-                6
+                2
+              </span>
+            </article>
+            {/* end of  single timeline item */}
+            {/* single timeline item */}
+            <article className="timeline-item">
+              <h4>2019</h4>
+              <p>
+               Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+              </p>
+              <span className="number">
+                1
               </span>
             </article>
             {/* end of  single timeline item */}

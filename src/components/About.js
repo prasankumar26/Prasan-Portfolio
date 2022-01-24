@@ -1,23 +1,21 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 const About = () => {
   return <>
  <section className="section single-page">
         {/* section title */}
         <div className="section-title">
-          <h1>about me</h1>
+          <h1>Front End Developer</h1>
           <div className="underline" />
         </div>
         {/*end of section title */}
         <div className="section-center page-info">
           {/* about page */}
           <p>
-            Hello, I am John Doe and I am a web developer. I live and work in
-            somewhere warm. I spend most of my day, experimenting with HTML, CSS
-            and JavaScript (and its endless list of frameworks). I enjoy coding
-            and the challenge of learning something new everyday. You can also
-            find me at youtube channel
-            <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA">coding addict</a>
+            Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. 
+            <a href="https://www.linkedin.com/in/prasan-kumar-141a3916b/">Linkedin</a>
+
           </p>
         </div>
       </section>

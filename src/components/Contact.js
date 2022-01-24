@@ -13,7 +13,7 @@ const Contact = () => {
           {/* contact page*/}
           <p>
             If you are looking to get ahold of me, you can send me an email at
-            <a href="mailto:email@email.com">@your_email</a>
+            <a href="mailto:email@email.com">@prasanthedeveloper@gmail.comail</a>
           </p>
           <p>
             You can also reach me on Twitter at

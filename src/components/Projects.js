@@ -22,11 +22,9 @@ const Projects = () => {
                 </a>
               </div>
               <div className="project-details">
-                <h4>project name</h4>
+                <h4>Color Generator</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-                  eveniet amet odit aperiam, provident cum possimus sapiente minus
-                  quos! Ipsum?
+                 Created color generator app using React Js, You can Generate colors Using in this pp in real time...
                 </p>
                 <div className="project-footer">
                   <span>
