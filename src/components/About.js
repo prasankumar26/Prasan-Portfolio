@@ -13,7 +13,7 @@ const About = () => {
         <div className="section-center page-info">
           {/* about page */}
           <p>
-            Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. 
+            Front-ends web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. 
             <a href="https://www.linkedin.com/in/prasan-kumar-141a3916b/">Linkedin</a>
 
           </p>
