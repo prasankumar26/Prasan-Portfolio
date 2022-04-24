@@ -7,7 +7,7 @@ const Projects = () => {
  <header className="projects-hero">
           {/* section title */}
           <div className="section-title">
-            <h1>my projects</h1>
+            <h1>my projects </h1>
             <div className="underline" />
           </div>
           {/*end of section title */}
