@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const About = () => {
   return <>
@@ -13,8 +14,8 @@ const About = () => {
           {/* about page */}
           <p>
            A Full Stack Developer is someone who works with the Back End — or server side — of the application as well as the Front End, or client side. Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design and UI/UX management in order to do their job well.
-            <a target="_blank" href="https://www.linkedin.com/in/prasan-kumar-choudhary-141a3916b/"> Linkedin</a>
-
+            <a target="_blank" href="https://www.linkedin.com/in/prasan-kumar-choudhary-141a3916b/"> Linkedin</a> <br />
+             <Link to="/contact" className="btn hero-btn newbtn">hire me</Link>
           </p>
         </div>
       </section>

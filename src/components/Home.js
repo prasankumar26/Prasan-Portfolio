@@ -11,7 +11,7 @@ const Home = () => {
             <article className="hero-info">
               <div className="underline" />
               <h1>i'm Prasan </h1>
-              <h4>freelance web &amp; mobile UI/UX Designer</h4>
+              <h4>freelance &amp; Full Stack Web Developer</h4>
               <Link to="contact" className="btn hero-btn">hire me</Link>
               {/* social icons */}
               <ul className="social-icons hero-icons">
@@ -66,7 +66,7 @@ const Home = () => {
               <h2>Front End Developer</h2>
              <p>
             Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. 
-            <a href="https://www.linkedin.com/in/prasan-kumar-141a3916b/">Linkedin</a>
+            <a href="https://www.linkedin.com/in/prasan-kumar-choudhary-141a3916b/">Linkedin</a>
           </p>
               <p>
                Computer programming is the process of performing a particular computation, usually by designing/building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms.
@@ -108,10 +108,10 @@ const Home = () => {
             {/* single service */}
             <article className="service">
               <i className="fab fa-android service-icon" />
-              <h4>app design</h4>
+              <h4>MERN Developer</h4>
               <div className="underline" />
               <p>
-               What Is App Design? App design combines the user interface (UI) and user experience (UX). While UI lends itself to the overall style of the app (including the colors, fonts, and general look and feel), UX focuses on the actual functionality and usability.
+                A Full Stack Developer is someone who works with the Back End — or server side — of the application as well as the Front End, or client side. Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design and UI/UX management in order to do their job well.
               </p>
             </article>
             {/* end of single service */}
@@ -131,43 +131,43 @@ const Home = () => {
           {/*end of section title */}
           <div className="section-center projects-center">
             {/* single project */}
-            <a href="projects.html" className="project-1">
+            <a target="_blank" href="https://newcolorgenerator.netlify.app/" className="project-1">
               <article className="project">
-                <img src="./images/project-1.jpeg" alt="single project" className="project-img"/>
+                <img src="./img/color-generator.png" alt="single project" className="project-img"/>
                 <div className="project-info">
-                  <h4>project title</h4>
-                  <p>client name</p>
+                  <h4>Color Generator</h4>
+                  {/* <p>client name</p> */}
                 </div>
               </article>
             </a>
             {/* end of single project */}
             {/* single project */}
-            <a href="projects.html" className="project-2">
+            <a target="_blank" href="https://newcocktailproject.netlify.app/" className="project-2">
               <article className="project">
                 <img src="./images/project-2.jpeg" alt="single project" className="project-img"/>
                 <div className="project-info">
-                  <h4>project title</h4>
-                  <p>client name</p>
+                  <h4>Cocktail Project</h4>
+                  {/* <p>client name</p> */}
                 </div>
               </article>
             </a>
             {/* end of single project */}{/* single project */}
-            <a href="projects.html" className="project-3">
+            <a target="_blank" href="https://newloremipsumgenerator.netlify.app/" className="project-3">
               <article className="project">
-                <img src="./images/project-3.jpeg" alt="single project" className="project-img"/>
+                <img src="./img/lorem-ipsum-generator.png" alt="single project" className="project-img"/>
                 <div className="project-info">
-                  <h4>project title</h4>
-                  <p>client name</p>
+                  <h4>Lorem Ipsum Generator</h4>
+                  {/* <p>client name</p>s */}
                 </div>
               </article>
             </a>
             {/* end of single project */}{/* single project */}
-            <a href="projects.html" className="project-4">
+            <a target="_blank" href="https://easywebclone.netlify.app/" className="project-4">
               <article className="project">
-                <img src="./images/project-4.jpeg" alt="single project" className="project-img"/>
+                <img src="./img/easyweb.png" alt="single project" className="project-img"/>
                 <div className="project-info">
-                  <h4>project title</h4>
-                  <p>client name</p>
+                  <h4>Easy Web</h4>
+                  {/* <p>client name</p> */}
                 </div>
               </article>
             </a>
