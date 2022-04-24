@@ -41,7 +41,7 @@ const Home = () => {
               </ul>
             </article>
             <article className="hero-img">
-              <img src="./images/prasan-three.jpg" className="hero-photo" alt="john doe"/>
+              <img src="./images/prasan.jpg" className="hero-photo" alt="john doe"/>
             </article>
           </div>
         </header>
