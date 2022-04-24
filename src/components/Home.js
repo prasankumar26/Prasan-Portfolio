@@ -189,7 +189,7 @@ const Home = () => {
             </div>
             {/*end of section title */}
             <p className="video-text">
-             Keep in touch Fro any Web Development Projects, I am Ready to compleate your Projects on Time... 
+             Keep in touch For any Web Development Projects, I am Ready to compleate your Projects on Time... 
             </p>
             <Link to="contact" className="btn">contact me</Link>
           </div>
