@@ -1,5 +1,6 @@
 import React from 'react';
-import { FaHome } from "react-icons/fa";
+import { AllProjects } from './AllProjects';
+
 
 const Projects = () => {
   return <>
@@ -14,26 +15,79 @@ const Projects = () => {
         <section className="section">
           <div className="section-center projects-page-center">
             {/* single project */}
-            <article className="single-project">
-              <div className="project-container">
-                <img src="./images/project-1.jpeg" alt="single project" />
-                <a href="https://www.johnsmilga.com" className="project-icon">
-                  <FaHome />
-                </a>
-              </div>
-              <div className="project-details">
-                <h4>Color Generator</h4>
-                <p>
-                 Created color generator app using React Js, You can Generate colors Using in this pp in real time...
-                </p>
-                <div className="project-footer">
-                  <span>
-                    <i className="fab fa-github" />
-                  </span>
-                  <a href="https://www.github.com">source code</a>
-                </div>
-              </div>
-            </article>
+            <AllProjects 
+            image="./img/color-generator.png"
+            alt="Color Generator"
+            title="Color Genertator"
+            description="Created color generator app using React Js, You can Generate colors Using in this pp in real time..."
+            link="https://newcolorgenerator.netlify.app/"
+            source="https://github.com/prasankumar26/color-generator"
+            />
+            <AllProjects 
+            image="./img/cocktaildb.png"
+            alt="Cocktail Project"
+            title="cocktail DB"
+            description="Worked on Cocktail DB API Workflow To fetch Data Product and Product Details..."
+            link="https://newcocktailproject.netlify.app/"
+            source="https://github.com/prasankumar26/cocktail-project"
+            />
+            <AllProjects 
+            image="./img/lorem-ipsum-generator.png"
+            alt="Lorem Ipsum Generator"
+            title="Lorem Ipsum Generator"
+            description="You can Generate Dummy Content using This Content Generator App..."
+            link="https://newloremipsumgenerator.netlify.app/"
+            source="https://github.com/prasankumar26/lorem-ipsum-generator"
+            />
+            <AllProjects 
+            image="./img/react-sample-website.png"
+            alt="Simple react Website"
+            title="Simple react Website"
+            description="This is a Simple Website React Website Ui Design..."
+            link="https://samplereactwebsite.netlify.app/"
+            source="https://github.com/prasankumar26/react-website"
+            />
+            <AllProjects 
+            image="./img/easyweb.png"
+            alt="Easyweb Website"
+            title="Easyweb Clone"
+            description="This Website is Simple Created Using HTML, CSS, and BOOTSTRAP..."
+            link="https://easywebclone.netlify.app/"
+            source="https://github.com/prasankumar26/Easyweb-clone"
+            />
+            <AllProjects 
+            image="./img/packers-and-movers.png"
+            alt="Packers And Movers Website"
+            title="Packers And Movers"
+            description="This Website is Simple Created Using HTML, CSS, and BOOTSTRAP..."
+            link="https://app.netlify.com/sites/newpackersandmovers"
+            source="https://github.com/prasankumar26/packers-and-movers"
+            />
+            <AllProjects 
+            image="./img/e-thrive.png"
+            alt="e-thrive Website"
+            title="e-thrive Website"
+            description="This Website is Simple Created Using HTML, CSS, and BOOTSTRAP..."
+            link="https://ethrive.netlify.app/"
+            source="https://github.com/prasankumar26/ethrivecashsite"
+            />
+            <AllProjects 
+            image="./img/twitter-ui.png"
+            alt="Twitter Ui Website"
+            title="Twitter UI"
+            description="This Website is Simple Twitter Clone Created Using HTML, CSS, and BOOTSTRAP..."
+            link="https://newtwitter.netlify.app/"
+            source="https://github.com/prasankumar26/React-Twitter-Ui-Clone"
+            />
+            <AllProjects 
+            image="./img/neverend.png"
+            alt="HTML Website"
+            title="MTML CSS Blog Website"
+            description="This is a Blogging Website This Website is Simple Twitter Clone Created Using HTML, CSS..."
+            link="https://www.neverendmoney.com/"
+            source="https://www.neverendmoney.com/"
+            />
+          
             {/* end of single project */}
           </div>
         </section>

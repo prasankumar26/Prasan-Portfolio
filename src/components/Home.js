@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import Projects from './Projects';
+
 
 const Home = () => {
   return <>
@@ -343,41 +345,7 @@ const Home = () => {
 
 
         {/* blog */}
-        <section className="section blog">
-          {/* section title */}
-          <div className="section-title">
-            <h2>blog</h2>
-            <div className="underline" />
-          </div>
-          {/*end of section title */}
-          <div className="section-center blog-center">
-            {/* single article */}
-            <div className="card">
-              {/* front of the card */}
-              <div className="card-side card-front">
-                <img src="./images/project-1.jpeg" alt="one"/>
-                <div className="card-info">
-                  <h4>article title</h4>
-                  <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et
-                    nisi ut a est eum tempora dolorum temporibus voluptatibus!
-                    Natus, provident.
-                  </p>
-                  <div className="card-footer">
-                    <img src="./images/hero-img-small.jpeg" alt="authorimage"/>
-                    <p>7 min read</p>
-                  </div>
-                </div>
-              </div>
-              {/* card back  */}
-              <div className="card-side card-back">
-                <button className="btn">read more</button>
-              </div>
-            </div>
-            {/* end of single article */}
-           
-          </div>
-        </section>
+        <Projects />
         {/*end of  blog */}
        
   </>;

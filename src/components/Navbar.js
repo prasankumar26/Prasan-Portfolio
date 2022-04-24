@@ -16,15 +16,7 @@ const Navbar = () => {
   setOpen(false)
  }
 
- 
- // add fixed class to navbar
-//  window.addEventListener("scroll", function () {
-//   if (window.pageYOffset > 80) {
-//     navbar.classList.add("navbar-fixed");
-//   } else {
-//     navbar.classList.remove("navbar-fixed");
-//   }
-// });
+
   
   return <>  
   {/* navbar */}
@@ -32,7 +24,8 @@ const Navbar = () => {
           <div className="nav-center">
             {/* nav header */}
             <div className="nav-header">
-              <img src="./images/logo.svg" className="nav-logo" alt="nav logo" />
+              {/* <img src="./images/logo.svg" className="nav-logo" alt="nav logo" /> */}
+              <h1 className='h1_heading'>PRASAN KUMAR </h1>
               <button className="nav-btn" id="nav-btn" onClick={openSideBar}>
                 <FaBars />
               </button>
