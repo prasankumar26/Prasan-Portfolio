@@ -16,10 +16,19 @@ const Projects = () => {
           <div className="section-center projects-page-center">
             {/* single project */}
             <AllProjects 
+            image="./img/saveyourjobs.png"
+            alt="Save Your Jobs"
+            title="Save Your Jobs"
+            description="Created Save Your Jobs app using MERN(MongoDB,Express,ReactJS,NodeJs), 
+            You can Add Jobs, Edit Jobs Track and Filter your Jobs In real Time. It is a Jobs Management App..."
+            link="https://saveyourjobs.herokuapp.com/"
+            source="https://github.com/prasankumar26/saveyourjobs"
+            />
+            <AllProjects 
             image="./img/color-generator.png"
             alt="Color Generator"
             title="Color Genertator"
-            description="Created color generator app using React Js, You can Generate colors Using in this pp in real time..."
+            description="Created color generator app using React Js, You can Generate colors Using in this App in real time..."
             link="https://newcolorgenerator.netlify.app/"
             source="https://github.com/prasankumar26/color-generator"
             />
