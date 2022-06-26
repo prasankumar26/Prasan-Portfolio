@@ -32,7 +32,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/prasan-kumar-choudhary-141a3916b/" target="_blank" className="social-icon">
+              <a href="https://www.linkedin.com/in/prasan-kumar-naidu-141a3916b/" target="_blank" className="social-icon">
                 <FaLinkedin />
               </a>
             </li>
