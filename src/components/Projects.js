@@ -22,7 +22,7 @@ const Projects = () => {
             description="Created Save Your Jobs app using MERN(MongoDB,Express,ReactJS,NodeJs), 
             You can Add Jobs, Edit Jobs Track and Filter your Jobs In real Time. It is a Jobs Management App..."
             link="https://saveyourjobs.herokuapp.com/"
-            source="https://github.com/prasankumar26/saveyourjobs"
+            source="https://github.com/prasankumar26/MERN-JOBSAPP.git"
             />
             <AllProjects 
             image="./img/color-generator.png"
