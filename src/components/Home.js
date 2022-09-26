@@ -13,7 +13,7 @@ const Home = () => {
           <h1>i'm Prasan </h1>
           <h4>freelance &amp; Full Stack Web Developer</h4>
           <Link to="contact" className="btn hero-btn mr-3">hire me</Link>
-          <a href="https://drive.google.com/file/d/1d08muXB1ancWVvAFKkZnVtWc1i6GOoUs/view?usp=sharing"
+          <a href="https://drive.google.com/file/d/1ZB3iCuw0V9nm5uuyD1yvE8mfhI0BjXcR/view?usp=sharing"
            className="btn hero-btn">My Resume</a>
           {/* social icons */}
           <ul className="social-icons hero-icons">
