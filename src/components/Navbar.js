@@ -36,13 +36,13 @@ const Navbar = () => {
                 <Link to="/" onClick={closeSideBar}>home</Link>
               </li>
               <li>
-                <Link to="about" onClick={closeSideBar}>about</Link>
+                <Link to="/about" onClick={closeSideBar}>about</Link>
               </li>
               <li>
-                <Link to="projects" onClick={closeSideBar}>projects</Link>
+                <Link to="/projects" onClick={closeSideBar}>projects</Link>
               </li>
               <li>
-                <Link to="contact" onClick={closeSideBar}>contact</Link>
+                <Link to="/contact" onClick={closeSideBar}>contact</Link>
               </li>
             </ul>
           </div>
