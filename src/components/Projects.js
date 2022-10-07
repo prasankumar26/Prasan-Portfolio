@@ -69,7 +69,7 @@ const Projects = () => {
             alt="Packers And Movers Website"
             title="Packers And Movers"
             description="This Website is Simple Created Using HTML, CSS, and BOOTSTRAP..."
-            link="https://app.netlify.com/sites/newpackersandmovers"
+            link="https://newpackersandmovers.netlify.app/"
             source="https://github.com/prasankumar26/packers-and-movers"
             />
             <AllProjects 
@@ -95,6 +95,22 @@ const Projects = () => {
             description="This is a Blogging Website This Website is Simple Twitter Clone Created Using HTML, CSS..."
             link="https://www.neverendmoney.com/"
             source="https://www.neverendmoney.com/"
+            />
+            <AllProjects 
+            image="./images/movies-app.jpg"
+            alt="Movies App"
+            title="React Js Movies App"
+            description="A simple Movies Application, created by using TMDB API using axios library to fetch data..."
+            link="https://movietalkies.netlify.app/"
+            source="https://github.com/prasankumar26/Talkies"
+            />
+            <AllProjects 
+            image="./images/seomarketingindia.jpg"
+            alt="SEO Agency"
+            title="Bootstrap SEO agency"
+            description="Simple website made with Html, Css and Bootstrap, It is a Digital Marketing company they are providing services for SEO..."
+            link="https://seomarketingindia.com"
+            source="https://seomarketingindia.com"
             />
           
             {/* end of single project */}

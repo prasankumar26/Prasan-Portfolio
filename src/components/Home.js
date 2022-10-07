@@ -55,7 +55,7 @@ const Home = () => {
       <div className="section-center about-center">
         {/* about img */}
         <article className="about-img">
-          <img src="./images/prasan-two.jpg" className="hero-photo" alt="about img" />
+          <img src="./images/mysore.jpeg" className="hero-photo" alt="about img" />
         </article>
         {/* about info */}
         <article className="about-info">

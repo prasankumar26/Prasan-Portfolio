@@ -25,7 +25,7 @@ const Navbar = () => {
             {/* nav header */}
             <div className="nav-header">
               {/* <img src="./images/logo.svg" className="nav-logo" alt="nav logo" /> */}
-              <h1 className='h1_heading'>PRASAN KUMAR </h1>
+            <Link to="/" style={{color: "black"}}>  <h1 className='h1_heading'>PRASAN KUMAR </h1> </Link>
               <button className="nav-btn" id="nav-btn" onClick={openSideBar}>
                 <FaBars />
               </button>
